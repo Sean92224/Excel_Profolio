@@ -5,6 +5,8 @@ Analyzing Company X coffee sales trends from 2019-2022. Interactive Excel dashbo
 
 ## Data Structure & Intials Check
 ![Dimensions Preview](Excel_Dimensions.png)  
+1. Check any missing value in every spread sheets.
+2. 
 
 ## Summary of Insights
 

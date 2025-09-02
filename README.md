@@ -1,15 +1,14 @@
-# Excel_Profolio
-## Company X coffee sales analysis (2019-2022)
+# Company X coffee sales analysis (2019-2022)
 
 Analyzing Company X coffee sales trends from 2019-2022. Interactive Excel dashboard on [here](Profolio_Excel.xlsx).
 ![Excel Dashboard Preview](Dashboard.png)  
 
-# Data Structure & Intials Check
+## Data Structure & Intials Check
 ![Dimensions Preview](Excel_Dimensions.png)  
 
-# Summary of Insights
+## Summary of Insights
 
-# Recommendations & Next Steps
+## Recommendations & Next Steps
 
 
 

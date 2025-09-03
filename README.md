@@ -16,17 +16,20 @@ Analyzing Company X coffee sales trends from 2019-2022. Interactive Excel dashbo
 
 ## Summary of Insights
 1. The United States is the largest market, followed by Ireland and the United Kingdom.
-2. Customer without loyalty card spend more money than customer whi has.
-3. for the Robusta, size 0.5 kg has bad sales
-4. dark coffee has worst sales in United State
-5. In general, bigger size comes with better sales performance in three of those markets.
+2. Customers without loyalty cards spend more on average compared to those with loyalty cards.
+3. Robusta coffee in the 0.5 kg package size shows weak sales performance.
+4. Dark roast coffee performs poorly in the United States.
+5. Overall, larger package sizes consistently demonstrate stronger sales across all three markets.
 
 ## Recommendations & Next Steps
-1. Do a market research for Ireland to make itmore profitable.
-2. Discuss loyalty card plan with marketing team to make plan more attractive. Then bringing more high value customer joining this team.
-3. Robuste has a bad performance on 0.5 kg, I recommend procurement department to lower the amount of that.
-4. I assume with the coffee culture or drinking habit makes dark coffee doesn't have a excellent performance on United State. I recommend to lower the stock of dark coffee in United State.
-5. Bigger size comes with better sales, I highly recommend marketing team to make promotion plan. For example, show the price advntage on the package or the environmental image or subsribution service which is send heavy coffee beans to their place  
+1. Ireland Market Research – Conduct deeper market research in Ireland to identify growth opportunities and improve profitability.
+2. Loyalty Program Enhancement – Collaborate with the marketing team to redesign the loyalty card program, making it more attractive to high-value customers who haven't join this program and increasing participation.
+3. Product Mix Adjustment (Robusta 0.5 kg) – Because its underperformance I recommend that the procurement team reduce inventory levels of the 0.5 kg Robusta package.
+4. Dark Roast Strategy in the U.S. – The weaker demand might due to cultural or consumption habits, so I recommend to reduce stock levels of dark roast coffee in the United States.
+5. Larger Package Advantage – Since larger sizes drive better sales, recommend any marketing plan:
+-Price advantage per unit (value for money).
+-Environmental benefits (reduced packaging waste).
+-Subscription services (convenient delivery of bulk coffee to customers).
 
 
 
